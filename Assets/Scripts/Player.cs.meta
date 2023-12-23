@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4e30b20e13efdcd49b6d29809c8eec1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - world: {fileID: 3966411325623773311, guid: 28680da545a18454688ecd17053030c2, type: 3}
+  - defaultTexture: {fileID: -6465566751694194690, guid: 47becf546339c3c4e9ca46c2ed7a0e60, type: 3}
+  - inactiveTexture: {fileID: -6465566751694194690, guid: c33544b02ea78ed45ae91c027c18b241, type: 3}
+  - activeTexture: {fileID: -6465566751694194690, guid: e6e26f80148fa1542899bd91fc58f682, type: 3}
+  - activeSound: {fileID: 8300000, guid: 208bce753784c9349863fc36f4d7fa57, type: 3}
+  - trapSound: {fileID: 8300000, guid: 386cf950f5fc20948a7e2845b75f1e08, type: 3}
+  - extruderSound: {fileID: 8300000, guid: 7bc6bf4aa31acfc49b77c2126ebcb479, type: 3}
+  - floaterSound: {fileID: 8300000, guid: 44898a245cb6c404a9db5f0e2e785fe8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3966411325623773311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8774939282303580050}
+  - component: {fileID: 8395661071376255100}
+  m_Layer: 0
+  m_Name: Environment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8774939282303580050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3966411325623773311}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8395661071376255100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3966411325623773311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee010ff37bf3474ab8248a46e1f1a9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  capsule: {fileID: 5345417364976427687, guid: 0ba0ea0cf7fcc164b88c914a17d5c65e, type: 3}
+  colors:
+  - {fileID: -6465566751694194690, guid: 487e75abb367f5b4885cb79694281da9, type: 3}
+  - {fileID: -6465566751694194690, guid: 73b93ac909bd91a4595a811ea1a6d0b9, type: 3}
+  - {fileID: -6465566751694194690, guid: b969cf1edeb99234593bbb73c4981c1a, type: 3}
+  - {fileID: -6465566751694194690, guid: 99708d7438b4a094d8e5e5aec49ed276, type: 3}
+  - {fileID: -6465566751694194690, guid: 1d832436ebf2b654a89c9415406eb8d2, type: 3}
+  - {fileID: -6465566751694194690, guid: ec9b04fca0af4ee4499df12d99d987fe, type: 3}
+  - {fileID: -6465566751694194690, guid: e9d98c93c2207374f8c117e7e2e8d6f7, type: 3}
+  - {fileID: -6465566751694194690, guid: 8e62cbe35e0d1b041916b84461d5a30b, type: 3}
+  - {fileID: -6465566751694194690, guid: 4f86e573067cf884caf0b64fe18b0814, type: 3}
+  box: {fileID: 7116209893743223396, guid: 44eafbd168322cb4cbaf940f709d66d9, type: 3}
+  size: 31
+  pink: 0
+  purple: 0
+  blue: 0
+  colored: 0
